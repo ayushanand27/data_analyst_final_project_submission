@@ -1,6 +1,6 @@
 # Deliverables Package
 
-This folder contains the core assets for submission (excluding the PPT you will upload separately).
+
 
 ## Contents
 - telecom_churn_prediction_full_v2.ipynb — End-to-end notebook (data generation, modeling, evaluation, segmentation, artifacts)
