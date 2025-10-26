@@ -1,0 +1,20 @@
+{
+  "by_model": {
+    "RandomForest": {
+      "roc_auc": 0.6142818338212659,
+      "f1": 0.0,
+      "accuracy": 0.9745
+    },
+    "LogisticRegression": {
+      "roc_auc": 0.6554894918459945,
+      "f1": 0.0807061790668348,
+      "accuracy": 0.6355
+    },
+    "XGBoost": {
+      "roc_auc": 0.569351804344108,
+      "f1": 0.0,
+      "accuracy": 0.9745
+    }
+  },
+  "best": "LogisticRegression"
+}
