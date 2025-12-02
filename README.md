@@ -76,11 +76,3 @@
 - Missing metrics_summary.json → re-run notebook or `scripts/generate_metrics.py`.
 - PPT save denied → close the PPT file and re-run the generator.
 
-## Submission Checklist
-- [ ] Notebook: `telecom_churn_prediction_full_v2.ipynb`
-- [ ] Scored CSV: `telecom_customers_scored_segmented.csv`
-- [ ] Metrics: `metrics_summary.json`
-- [ ] Visuals (if present): `confusion_matrix.png`, `roc_curve.png`, `shap_summary_*.png`
-- [ ] Recommendations: `recommendations.md`
-- [ ] Project Report PDF: `Project_Report.pdf`
-- [ ] PPT: upload your final PPT separately
